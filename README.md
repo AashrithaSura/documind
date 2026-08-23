@@ -2,6 +2,8 @@
 
 DocuMind turns PDFs, JPGs, and PNGs into grounded summaries, key points, insights, action items, editorial suggestions, and page-referenced Q&A.
 
+**Live demo:** [https://documind-1-7yo4.onrender.com/](https://documind-1-7yo4.onrender.com/)
+
 ## Features
 
 - Drag-and-drop/file-picker uploads with MIME and 10 MB validation
